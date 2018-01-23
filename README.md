@@ -11,7 +11,8 @@ Najbolj uporabljena indeksa PIR in PER, ki pa sta lahko včasih varljiva ter ne 
 Za konec bom poiskušal najti tudi najbolj 'idealnega' igralca, ki je takrat igral v ligi, 
 v odvisnosti nekaterih najpomembnejših kategorij.
 
-V letošnjem letu bom projekt še nadgradil. Kot je mogoče opaziti je v končnem rezultatu zelo velika razlika med igralci, ki so npr. igrali malo tekem ter na njih dosegli zelo dobre rezultate, ter med igralci, ki so igrali veliko tekem ter dosegali dobre rezultate na večini le teh, vendar pa imeli kakšno slabšo tekmo. 
-
+V letošnjem letu bom projekt še nadgradil.
 Moja analiza je favorizirala igralce, z zelo majhnim številom odigranih tekem (oz. minut na tekmo). V izboljšani verziji bom poskusil te anomalije odpraviti ter resnično izluščiti igralce ki so ''vredni svojega denarja''.
+
+Popravil sem tudi grafe, ki sedaj bolje pokažejo korelacijo ali manko le-te med analiziranimi podatki.
 
