@@ -9,4 +9,4 @@ Za konec bomo poiskušalu najti tudi najbolj 'idealnega' igralca, ki je takrat i
 
 Z osnovno analizo že najdemo nekatere kazalce, ki lahko pokažejo, kateri igralci so 'dobri' in kateri ne. Vendar pa naša analiza favorizira igralce, z zelo majhnim številom odigranih tekem (oz. minut na tekmo). V izboljšani verziji bomo poiskusili te anomalije odpraviti ter resnično izluščiti igralce ki so 'vredni svojega denarja'.
 
-Uporabljamo Jupyter notebook, za pridobitev in urejanje podatkov sem uporabil regularne izraze, za analizo pa večinoma matplotlib.
+Uporabljamo Jupyter notebook, za pridobitev in urejanje podatkov sem uporabil regularne izraze, za analizo podatko in izris grafov pa paket Pandas ter Matplotlib. 
